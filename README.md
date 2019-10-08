@@ -1,2 +1,2 @@
 # Ajax-Image-Upload-Using-PHP
-Ajax Image Upload using PHP and jQuery
+More details read it here https://www.tutsplanet.com/ajax-image-upload-using-php-and-jquery/
